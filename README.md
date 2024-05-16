@@ -79,9 +79,15 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+3. click on the
+
+### Program :
+![s1](https://github.com/Nafeezkamal123/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/128898953/95a34ac9-bf1f-4d05-9208-d9e11bc605b1)
+![s2](https://github.com/Nafeezkamal123/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/128898953/0a6bca0e-ed36-49cf-8de3-cf8753682c5c)
 
 
+
+![s3](https://github.com/Nafeezkamal123/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/128898953/e4f6cc85-4081-41bd-8f3d-8613cf3c36f4)
 
 
 
@@ -100,6 +106,9 @@ and click on the connect icon
 
 ### output video and screen shots of pick and place 
 
+![ss1](https://github.com/Nafeezkamal123/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/128898953/8e9e110f-5f44-4108-8d51-e74d14ce5251)
+![ss2](https://github.com/Nafeezkamal123/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/128898953/c6f6711d-ff92-4d35-84da-39491cf3f915)
+![ss3](https://github.com/Nafeezkamal123/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/128898953/057440fe-befe-44c4-8b44-2e83c8737a00)
 
 
 
@@ -107,7 +116,7 @@ and click on the connect icon
 
 
 ### Results: 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
