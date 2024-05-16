@@ -84,9 +84,6 @@ and click on the connect icon
 ### Program :
 ![s1](https://github.com/Nafeezkamal123/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/128898953/95a34ac9-bf1f-4d05-9208-d9e11bc605b1)
 ![s2](https://github.com/Nafeezkamal123/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/128898953/0a6bca0e-ed36-49cf-8de3-cf8753682c5c)
-
-
-
 ![s3](https://github.com/Nafeezkamal123/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/128898953/e4f6cc85-4081-41bd-8f3d-8613cf3c36f4)
 
 
